@@ -6,7 +6,7 @@
 
 ## Bibliotecas Utilizadas      
 
-    Este sensor não utiliza blibliotecas em seu codigo entretanto nada impede que se necessario seja utilizada alguma biblioteca.
+    Este sensor não utiliza blibliotecas em seu codigo entretanto nada impede que se necessario seja utilizadas algumas bibliotecas.
 
 ## Materiais Utilizados 
 
