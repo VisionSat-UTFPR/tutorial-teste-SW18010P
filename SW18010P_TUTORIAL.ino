@@ -31,7 +31,7 @@ void loop()
   if (leitura_porta_digital != 1)
   {
     digitalWrite(pinoled, HIGH);
-    delay(500);
+    delay(10);
     digitalWrite(pinoled, LOW);
   }
   delay(50);
