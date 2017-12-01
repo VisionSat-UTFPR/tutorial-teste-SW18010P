@@ -2,11 +2,14 @@
 
 
 ## Componentes Internos
-    Este componente é recomendado para brinquedos, sensores de presença e alarmes. Basicamente o que compoem o sistema interno do sensor SW18010P, é um sensor de vibração SW18010P propriamente dito um chip comparador de tensão LM393 e um potenciometro para ajustar a sensibilidade do sensor.
+    Este componente é recomendado para brinquedos, sensores de presença e alarmes. Basicamente o
+     que compoem o sistema interno do sensor SW18010P, é um sensor de vibração SW18010P propriamente 
+     dito um chip comparador de tensão LM393 e um potenciometro para ajustar a sensibilidade do 
+     sensor.
 
 ## Bibliotecas Utilizadas      
 
-    Este sensor não utiliza blibliotecas em seu codigo entretanto nada impede que se necessario seja utilizadas algumas bibliotecas.
+    Este sensor não utiliza blibliotecas em seu codigo entretanto nadaimpede que se necessario sejautilizadas algumas bibliotecas.
 
 ## Materiais Utilizados 
 
